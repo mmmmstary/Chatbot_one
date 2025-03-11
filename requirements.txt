@@ -1,3 +1,0 @@
-chatbotlab4.py
-ChatGPT_HKBU.py
-configGAI.ini
